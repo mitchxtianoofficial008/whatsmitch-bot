@@ -1,0 +1,12 @@
+MITCH CHRISTIANO BOT — PERSONAL DETAILS
+========================================
+Owner: Mitch Christiano Okumu
+Primary email: mitchchristianoofficial@gmail.com
+Secondary email: christianomitch832@gmail.com
+Organization: THE TRANSITION FOUNDATION
+Motto: Transforming today, Building Tomorrow.
+
+Notes:
+- No private phone number is stored here.
+- No WhatsApp session, password, verification code, or API key is included.
+- Set SUDO in config.env only if you want to add trusted numbers.
